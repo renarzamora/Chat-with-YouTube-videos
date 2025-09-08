@@ -41,7 +41,7 @@ echo "OPENAI_API_KEY=your_openai_key_here" > .env
 
 ---
 
-🖥️ Usage
+## 🖥️ Usage
 streamlit run app.py
 
 Enter a YouTube video URL.
@@ -66,7 +66,7 @@ The agent decides which tool to use based on the nature of the question.
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 ```
 ├── app.py               # Streamlit frontend
 ├── agent.py             # Agent configuration and tool logic
@@ -91,16 +91,20 @@ The agent decides which tool to use based on the nature of the question.
 
 ---
 
-🧪 Demo
+## 🧪 Demo
+
+video used: https://www.youtube.com/watch?v=LNHBMFCzznE
+
+watch an example here: https://youtu.be/0e2RO2WYQCk
 
 ---
 
-📜 License
+## 📜 License
 This project is open-source and available under the MIT License.
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome! If you’d like to add features, improve documentation, or localize the interface, feel free to fork and submit a PR.
 
 --
