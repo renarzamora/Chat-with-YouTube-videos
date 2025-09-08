@@ -1,0 +1,4 @@
+youtube_env
+__pycache__/
+content_*
+.env
